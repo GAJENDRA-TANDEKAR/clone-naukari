@@ -1,0 +1,81 @@
+.card2-box{
+    border: 1px solid red;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.inside-card2-box{
+    border: 1px solid red;
+    height: 100%;
+    width: 60%;
+
+}
+.card2-items{
+
+    border: 1px solid red;
+    height: 100%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.inside-card2-items{
+    border: 1px solid rgb(23, 217, 84);
+    height: 90%;
+    width: 90%;
+    text-align: center;
+   
+
+
+}
+.car2-company-img{
+
+    border: 1px solid red;
+    height: 30%;
+    width: 100%;
+
+   
+
+}
+.card2-details{
+    border: 1px solid red;
+    height: 30%;
+    width: 100%;
+    border-radius: 15px;
+    
+}
+.inside-card2-details-1{
+    margin-top: 15px;
+   
+
+}
+.inside-card2-details-2{
+    margin-top: 10px;
+    color: rgb(128, 124, 130);
+
+}
+.card2info{
+    border: 1px solid red;
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card2-view-job{
+    border: 1px solid red;
+    height: 17%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+/* ------------------------------------------ */
